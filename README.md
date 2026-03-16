@@ -17,7 +17,7 @@
 
 ---
 
-(preview.jpg)
+([preview.jpg](https://github.com/bitopsy/ECO-Scout-Widget-for-BAR/blob/main/preview.jpg))
 
 ## What it shows
 
