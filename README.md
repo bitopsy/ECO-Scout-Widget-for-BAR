@@ -17,6 +17,8 @@
 
 ---
 
+(preview.jpg)
+
 ## What it shows
 
 The widget displays a compact overlay with three sections.
